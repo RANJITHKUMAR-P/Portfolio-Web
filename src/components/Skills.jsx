@@ -31,7 +31,7 @@ const Skills = () => {
         </div>
         <div className="text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] text-zinc-200 text-start md:text-center mx-auto">
           <p>
-            My main area of expertise centers around the MERN stack, and I have a special fondness for Next.js and Tailwind CSS. Additionally, I am actively engaged in rapidly learning and expanding my knowledge in the blockchain domain, exploring technologies such as Solana, Rust, and Ethereum.
+My main area of expertise is the MERN stack, with a strong interest in Next.js and Tailwind CSS. I am also actively expanding my knowledge by exploring new technologies to stay up to date with modern development trends.
           </p>
         </div>
       </Div>

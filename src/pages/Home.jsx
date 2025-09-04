@@ -1,7 +1,7 @@
 
 
 import React from 'react';
-import { Link } from 'react-router-dom'; // Add this import
+import { Link } from 'react-router-dom'; 
 
 const Particles = ({ className, quantity }) => (
   <div className={className}>

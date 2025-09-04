@@ -24,7 +24,7 @@ const Freelance = () => {
                         </div>
                         <div className="text-[16px] pb-8 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] md:text-center text-start mx-auto text-zinc-200">
                             <p>
-                                In 2019, I ventured into freelancing, exploring new
+                                In 2023, I ventured into freelancing, exploring new
                                 opportunities and broadening my horizons. If you're interested in
                                 hiring me, please visit my{" "}
                                 <Link to="https://www.fiverr.com/ranjithp_" target="_blank">
